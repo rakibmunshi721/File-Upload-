@@ -1,0 +1,20 @@
+{
+  "block_root": "on",
+  "block_packages": "on",
+  "blocked_packages_list": [
+    "mt.modder.hub",
+    "com.wn.app.np",
+    "org.lsposed.npatch",
+    "com.termux",
+    "ru.trkvrljh.rpfkguudd",
+    "cn.trinea.android.developertools.pro",
+    "ru.maximoff.apktool",
+    "com.applisto.appcloner",
+    "com.gmail.heagoo.apkeditor.pro",
+    "bin.mt.plus",
+    "com.appsisle.developerassistant",
+    "me.weishu.kernelsu",
+    "com.tsng.hidemyapplist",
+    "org.swiftapps.swiftbackup"
+  ]
+}
