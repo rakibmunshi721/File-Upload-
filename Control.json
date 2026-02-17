@@ -1,6 +1,6 @@
 {
   "block_root": "on",
-  "block_packages": "on",
+  "block_packages": "off",
   "blocked_packages_list": [
     "mt.modder.hub",
     "com.wn.app.np",
