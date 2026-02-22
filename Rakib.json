@@ -1,0 +1,1312 @@
+{
+    "sliders": [
+        {
+            "title": "T20 World Cup Live",
+            "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/381100/381165.jpg",
+            "video_url": "http://familyrestream.com:2095/live/Majid2022/WhatsApp2962myrestream/178117.ts",
+            "description": "Watch Live Cricket Match Streaming HD."
+        },
+        {
+            "title": "Breaking News",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Breaking_News_logo.svg/1200px-Breaking_News_logo.svg.png",
+            "video_url": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+            "description": "Live News Coverage 24/7."
+        }
+    ],
+    "app_update": {
+        "show_update_dialog": true,
+        "latest_version_code": 1,
+        "message": "New Live TV Channels Added!",
+        "download_url": "https://t.me/SuperModsApk"
+    },
+    "live_tv": [
+        {
+            "heading": "🏏 Live Sports",
+            "items": [
+                {
+                    "title": "Star Sports 1 Hindi Hd",
+                    "thumbnail": "https://i.postimg.cc/50Wqb4wf/Picsart-26-01-06-16-02-22-027.jpg",
+                    "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=71242"
+                },
+                {
+                    "title": "Star Sports 1 Hd",
+                    "thumbnail": "https://i.postimg.cc/FK5JJP7N/Picsart-26-01-06-16-03-10-482.jpg",
+                    "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=71090"
+                },
+                {
+                    "title": "Star Sports 2 Hd",
+                    "thumbnail": "https://i.postimg.cc/VLHzTd82/Picsart-26-01-06-15-25-26-211.jpg",
+                    "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11924"
+                },
+                {
+          "title": "Star Sports 2 Hindi HD",
+          "thumbnail": "https://i.postimg.cc/dt0XS43M/file_0000000080a071f49d0933d50005e14f.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=71110"
+        },
+        {
+          "title": "DD Sports",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8JX_NUJKuIYlg3wTMk5na6xnVp4V5n6j3msVpawv0pwZj7-lJ43Kpsg&s=10",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12171"
+        },
+        {
+          "title": "Star Sports 3",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5s3zazJhUP2l1t5r6IVMuQbt3e6TnWVNiSMp3fpZLrXiTSzFQphL3N9Y&s=10",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12155"
+        },
+        {
+          "title": "STAR SPORTS KHEL",
+          "thumbnail": "https://i.postimg.cc/05JZr1Nw/IMG-20260216-094115.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61475"
+        },
+        {
+          "title": "Star Sports Select 1 HD",
+          "thumbnail": "https://i.postimg.cc/xTd7FtCw/file_00000000c16c720c9022e2dc1f2c0cbd.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12151"
+           },
+           {
+          "title": "Star Sports Select 2 Hd",
+          "thumbnail": "https://i.postimg.cc/KvYrp443/Picsart_26_01_17_15_47_14_813.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12152"
+                 },
+                  {
+          "title": "STAR SPORTS 1 KANNADA",
+          "thumbnail": "https://exchange4media.gumlet.io/news-photo/93752-StarSports1Kannada.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12153"
+               },
+              {
+          "title": "STAR SPORTS 1 TAMIL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzb58zWjCw_n8l9a0eas6zqRuT0wCRPzJDYZtsqtKqR1Jw4O2pNmFYk8&s=10",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12154"
+                },
+              {
+          "title": "Star Sports 1 Telugu",
+          "thumbnail": "https://yt3.googleusercontent.com/ZOeKjBkojMgpxc2ngL4UqsgPRBHpByclAmUHYJmEhcu7vjIqoQMWopx8hunzIOfhngQH07hP=s900-c-k-c0x00ffffff-no-rj",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=68191"
+               },
+                {
+          "title": "Sony Ten 1",
+          "thumbnail": "https://i.postimg.cc/Kjttm2Rm/Picsart-26-01-06-19-25-35-726.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=836"
+                },
+                {
+          "title": "Sony Ten 2",
+          "thumbnail": "https://i.postimg.cc/XvZRxHrT/Picsart_26_01_06_19_30_46_312.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=620"
+              },
+              {
+          "title": "Sony Ten 3",
+          "thumbnail": "https://i.postimg.cc/DzW95jSH/file_000000004cd871fab3b88f0482b68929.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=621"
+         },
+         {
+          "title": "Sony Sports Ten 3 Hindi",
+          "thumbnail": "https://i.postimg.cc/sD29H111/file_00000000a480720896726109757273af.png",
+          "video_url": "http://103.178.78.151:7505/play/a1pv/index.m3u8"
+        },
+        {
+          "title": "Sony Ten 4",
+          "thumbnail": "https://i.postimg.cc/N0y3bJKZ/file_000000008ae471f49b6512b79aee4562.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12173"
+        },
+      {
+          "title": "Willow Cricket",
+          "thumbnail": "https://i.postimg.cc/zXmNy1PQ/Picsart-26-01-06-19-10-36-996.jpg",
+           "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2084"
+        },
+       {
+              "title": "Willow 2 Cricket",
+              "thumbnail": "https://i.postimg.cc/zXmNy1PQ/Picsart-26-01-06-19-10-36-996.jpg",
+              "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2085"
+       },
+      {
+          "title": "Willow Sports",
+          "thumbnail": "https://i.postimg.cc/qq5rvtXK/IMG_20260216_120318.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61017"
+        },
+      {
+          "title": "Astro Cricket",
+          "thumbnail": "https://i.postimg.cc/wTBc4332/Picsart_26_01_17_15_33_10_778.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=66607"
+        },
+      {
+          "title": "Sky Sports Cricket",
+          "thumbnail": "https://i.postimg.cc/kXDV7KvM/IMG-20260216-105041.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2956"
+        },
+      {
+          "title": "Sky Sports Main Event",
+          "thumbnail": "https://archive.org/services/img/SkySportsMainEvent_201708",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=8900"
+        },
+       {
+          "title": "Astro Football",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/960px-Astro_Football_%282024%29.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62756"
+        },
+       {
+          "title": "CRICKET PLUS",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/43723.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=43933"
+        },
+      {
+          "title": "FOX CRICKET",
+          "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/404/00db0d68651923.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63138"
+        },
+      {
+          "title": "FOX SPORTS 3",
+          "thumbnail": "https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58139"
+        },           
+       {
+          "title": "Super Cricket",
+          "thumbnail": "https://i.postimg.cc/J4hcYttj/Picsart_26_01_17_15_30_08_985.jpg",
+          "video_url": "http://ottsolutions.club/live/6grrFer5X8/mbJKZetdFf/305899.ts"
+       },
+       {
+          "title": "TNT Cricket HD",
+          "thumbnail": "https://i.postimg.cc/gj0jxHT0/Picsart_26_01_06_17_43_22_059.jpg",
+          "video_url": "https://d8.merichunidya.com/hls/bbtsp1.m3u8?md5=F57hR31vvVIHlcnXJafqmw&expires=1769521598"
+        },
+      {
+          "title": "TNT Sports",
+          "thumbnail": "https://i.postimg.cc/j25KT6NK/IMG_20260216_120303.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=3219"
+        },
+      {
+          "title": "TNT Sports 2",
+          "thumbnail": "https://i.postimg.cc/hvjgn8xD/IMG_20260216_120042.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73151"
+        },
+      {
+          "title": "TNT Sports 3",
+          "thumbnail": "https://i.postimg.cc/2y6mYdv3/IMG_20260216_120029.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=68764"
+        },
+      {
+          "title": "TNT Sports 4",
+          "thumbnail": "https://i.postimg.cc/90MV2PTc/IMG_20260216_120017.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=68765"
+        },
+       {
+          "title": "T Sports HD",
+          "thumbnail": "https://i.postimg.cc/4y3yYQSf/Picsart_26_01_06_17_51_03_522.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12104"
+        },
+       {
+          "title": "Cricket Gold HD",
+          "thumbnail": "https://i.postimg.cc/nz2MVP0p/Picsart_26_01_06_17_55_30_467.jpg",
+          "video_url": "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
+        },
+        {
+          "title": "A Sports HD",
+          "thumbnail": "https://i.postimg.cc/fLCkWrBM/Picsart_26_01_06_18_03_57_074.jpg",
+          "video_url": "https://tv.ottking.top/live/ottking247/fuckyou/96.m3u8"
+        },
+        {
+          "title": "TEN Cricket HD",
+          "thumbnail": "https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg",
+          "video_url": "https://ottking.top/toffe/live.php?id=ten_cricket&e=.m3u8"
+        },
+      {
+          "title": "TEN Sports",
+          "thumbnail": "https://i.postimg.cc/854sk0w2/Picsart_26_01_06_18_07_24_641.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12054"
+        },
+       {
+          "title": "PVT Sports HD",
+          "thumbnail": "https://i.postimg.cc/QtmVNy0H/Picsart_26_01_06_18_12_33_884.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12165"
+        },
+       {
+          "title": "M4 Sports",
+          "thumbnail": "https://i.postimg.cc/nVQmvGh2/Picsart_26_01_10_14_39_12_070.jpg",
+          "video_url": "http://dvr1.kablova.tv/M4/index.m3u8"
+        },
+      {
+          "title": "Euro Sports HD",
+          "thumbnail": "https://i.postimg.cc/TYMDQ5K0/Picsart_26_01_10_14_38_53_671.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12143"
+        },
+      {
+          "title": "ESPN 7",
+          "thumbnail": "https://i.postimg.cc/BZ1FxBnM/Picsart_26_01_10_14_40_47_159.jpg",
+          "video_url": "http://201.230.121.186:8000/play/a0dz/index.m3u8"
+        },
+      {
+          "title": "FIFA+",
+          "thumbnail": "https://i.postimg.cc/nVQmvGhQ/FB_IMG_1768022373763.jpg",
+          "video_url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+               }        
+             ]
+          },
+         {
+            "heading": "Star Network",
+            "items": [
+                {
+          "title": "Star Plus HD",
+          "thumbnail": "https://i.postimg.cc/m2Qb47HG/Picsart_26_01_06_21_20_53_306.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=902"
+        },
+{
+          "title": "Star Gold HD",
+          "thumbnail": "https://i.postimg.cc/RVcMmwny/Picsart_26_01_06_21_26_19_349.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1042"
+        },
+{
+          "title": "Star Gold 2 HD",
+          "thumbnail": "https://i.postimg.cc/qMfkW1zr/Picsart_26_01_06_21_27_35_927.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=976"
+        },
+{
+          "title": "Star Jalsha Movies HD",
+          "thumbnail": "https://i.postimg.cc/bNQzP125/Picsart_26_01_06_21_24_24_736.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12102"
+        },
+{
+          "title": "Star Jalsha HD",
+          "thumbnail": "https://i.postimg.cc/tC0X8BYp/Picsart_26_01_06_21_25_33_559.jpg",
+          "video_url": "https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8"
+        },
+{
+          "title": "Star Utsav Movies",
+          "thumbnail": "https://i.postimg.cc/qM8kr23k/Picsart_26_01_06_21_18_53_157.jpg",
+          "video_url": "http://103.78.149.54:8000/play/a00m/index.m3u8"
+        },
+{
+          "title": "Star Pravah HD",
+          "thumbnail": "https://i.postimg.cc/02p8v7Jh/Picsart_26_01_06_21_23_10_618.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11894"
+        },
+{
+          "title": "Star Bharat HD",
+          "thumbnail": "https://i.postimg.cc/pXD2vKFr/Picsart_26_01_06_21_19_40_225.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11674"
+        },
+{
+          "title": "Star Maa HD",
+          "thumbnail": "https://i.postimg.cc/ZKrTm6yg/Picsart_26_01_06_21_30_53_364.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=962"
+        },
+{
+          "title": "Star Maa Gold",
+          "thumbnail": "https://i.postimg.cc/X7wVW9CC/Picsart_26_01_06_22_12_37_731.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1048"
+        },
+{
+          "title": "Star Gold Select",
+          "thumbnail": "https://i.postimg.cc/5NwxJ8Ct/Picsart_26_01_06_21_17_50_381.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1042"
+        },
+{
+          "title": "Star Gold Select HD",
+          "thumbnail": "https://i.postimg.cc/bwpqwdxr/Picsart_26_01_06_22_31_56_214.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=732"
+        },
+        {
+          "title": "Star Gold Romance",
+          "thumbnail": "https://i.postimg.cc/zfz8xpcZ/Picsart_26_01_12_16_48_15_218.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=66802"
+        },
+{
+          "title": "Star Vijay HD",
+          "thumbnail": "https://i.postimg.cc/vHWQy56p/Picsart_26_01_06_21_22_06_306.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=924"
+        },
+                {
+                    "title": "Aaj Tak",
+                    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/84/Aaj_Tak_logo.png",
+                    "video_url": "https://pwsufiyan.vercel.app/api/fusion4k.m3u8?id=780"
+                }
+            ]
+        },
+        {
+            "heading": "🎬 Colors Network",
+            "items": [
+                
+{
+          "title": "Colors HD",
+          "thumbnail": "https://i.postimg.cc/LXkCy4Wr/Picsart_26_01_06_22_56_59_956.jpg",
+          "video_url": "http://217.20.112.199:8888/ColorsHD/index.m3u8"
+        },
+{
+          "title": "Colors Rishtey HD",
+          "thumbnail": "https://i.postimg.cc/tJXr8QQ9/Picsart_26_01_06_23_00_41_257.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2771"
+        },
+{
+          "title": "Colors Cineplex HD",
+          "thumbnail": "https://i.postimg.cc/sxVnbdFn/Picsart_26_01_06_22_57_53_223.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11711"
+        },
+{
+          "title": "Colors Colors Bollywood",
+          "thumbnail": "https://i.postimg.cc/zBwtdDQ4/Picsart_26_01_06_23_01_45_476.jpg",
+          "video_url": "https://cdn.x7flix.com/TStream/TStream.php?id=8562"
+        },
+{
+          "title": "Colors Bangla HD",
+          "thumbnail": "https://i.postimg.cc/C5Fv9Ty9/Picsart_26_01_06_22_58_35_721.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62602"
+        },
+{
+          "title": "Colors Kannada HD",
+          "thumbnail": "https://i.postimg.cc/Y9NnX2PQ/Picsart_26_01_06_23_04_01_978.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1037"
+        },
+{
+          "title": "Colors Gujarati HD",
+          "thumbnail": "https://i.postimg.cc/85dKykYM/Picsart_26_01_06_23_13_19_069.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1024"
+        },
+{
+          "title": "Colors Marathi HD",
+          "thumbnail": "https://i.postimg.cc/hj8yC4Y9/Picsart_26_01_06_23_05_43_219.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2768"
+        },
+{
+          "title": "Colors Tamil HD",
+          "thumbnail": "https://i.postimg.cc/Twj7k2sb/Picsart_26_01_06_23_04_59_673.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=742"
+        },
+{
+          "title": "Colors Infinity HD",
+          "thumbnail": "https://i.postimg.cc/tTdSrRcM/Picsart_26_01_06_23_02_58_026.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=771"
+               }
+            ]
+        },
+        {
+            "heading": "🎬 Bangla Entertainment",
+            "items": [
+                         {
+          "title": "Star Jalsha",
+          "thumbnail": "https://i.postimg.cc/tC0X8BYp/Picsart_26_01_06_21_25_33_559.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11198"
+        },
+      {
+          "title": "Zee Bangla",
+          "thumbnail": "https://i.postimg.cc/4xw3fPtv/FB_IMG_1767724356693.jpg",
+          "video_url": "http://103.140.254.2:3500/live/625.m3u8"
+        },
+      {
+          "title": "Colors Bangla",
+          "thumbnail": "https://i.postimg.cc/C5Fv9Ty9/Picsart_26_01_06_22_58_35_721.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62602"
+        },
+      {
+          "title": "Sony Aath",
+          "thumbnail": "https://i.postimg.cc/KcP19j2v/Picsart_26_01_07_14_38_18_739.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11227"
+        },
+      {
+          "title": "Jalsha Movies",
+          "thumbnail": "https://i.postimg.cc/bNQzP125/Picsart_26_01_06_21_24_24_736.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11229"
+        },
+      {
+          "title": "Zee Bangla Cinema",
+          "thumbnail": "https://i.postimg.cc/3x3RQVyD/Picsart_26_01_07_09_33_01_071.jpg",
+          "video_url": "https://ottking.top/toffe/live.php?id=zee_bangla_cinema&e=.m3u8"
+        },
+      {
+          "title": "Enterr10 Bangla",
+          "thumbnail": "https://i.postimg.cc/wvLdSHYM/Picsart_26_01_09_14_10_53_322.jpg",
+          "video_url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8"
+        },
+       {
+          "title": "CRIME CINEMA BANGLA",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/63246.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63523"
+        },
+      {
+          "title": "COMEDY CINEMA BANGLA",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/63249.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63526"
+        },
+      {
+          "title": "Ruposhi Bangla",
+          "thumbnail": "https://i.postimg.cc/DZLKtF3f/Picsart_26_01_09_14_13_20_671.jpg",
+          "video_url": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
+        },
+      {
+          "title": "Khooshboo Bangla",
+          "thumbnail": "https://i.postimg.cc/CKWgP5Xg/file_00000000b6cc71faa0bcb057233428e2.png",
+          "video_url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+        },
+      {
+          "title": "Orange Bangla TV",
+          "thumbnail": "https://i.postimg.cc/PrwrHs3J/Picsart_26_01_17_16_12_53_842.jpg",
+          "video_url": "https://cdn-4.pishow.tv/live/1499/master.m3u8"
+        },
+      {
+          "title": "Sangeet Bangla",
+          "thumbnail": "https://i.postimg.cc/50LMZ1Wd/Picsart_26_01_09_14_15_49_534.jpg",
+          "video_url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+        },
+      {
+          "title": "Aakash Aath",
+          "thumbnail": "https://i.postimg.cc/xCMSWYVK/Picsart_26_01_09_14_10_13_348.jpg",
+          "video_url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
+        },
+      {
+          "title": "SUN BANGLA",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/11121.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11205"
+        },
+      {
+          "title": "Channel 9",
+          "thumbnail": "https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12105"
+        },
+      {
+          "title": "Gazi TV (GTV)",
+          "thumbnail": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11169"
+        },
+      {
+          "title": "Movie Bangla Tv",
+          "thumbnail": "https://i.postimg.cc/N0WcJFV8/file_000000006dbc71fa9a86a95b307e2204.png",
+          "video_url": "http://alvetv.com/mbtv/8080/index.m3u8"
+        },
+      {
+          "title": "Tara TV",
+          "thumbnail": "https://i.postimg.cc/jjWT4P88/file_00000000701071fa92ec8ae99c11177b.png",
+          "video_url": "http://103.145.48.150:90/laosat24/taratv/index.m3u8"
+        },
+                      {
+          "title": "Bangla Plus HD",
+          "thumbnail": "https://i.postimg.cc/zX9VS0jj/Picsart_26_01_10_16_56_03_400.jpg",
+          "video_url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+        },
+      {
+          "title": "Amar Bangla",
+          "thumbnail": "https://i.postimg.cc/52LjPL7p/Picsart_26_01_10_16_57_01_179.jpg",
+          "video_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
+        },
+        {
+          "title": "Drama 24",
+          "thumbnail": "https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",
+          "video_url": "https://vods2.aynascope.net/gseriesDrama/index.m3u8"
+        },
+      {
+          "title": "ME TV BD",
+          "thumbnail": "https://i.postimg.cc/L6rnBNTD/Picsart_26_01_10_16_57_39_702.jpg",
+          "video_url": "https://iptvbd.live/metv1080/1080.m3u8"
+        },
+      {
+          "title": "Rongeen TV",
+          "thumbnail": "https://i.postimg.cc/sDtv9wcb/FB_IMG_1768016274368.jpg",
+          "video_url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+        },
+      {
+          "title": "Islam Bangla",
+          "thumbnail": "https://i.postimg.cc/GpRt6t6m/file_00000000304871fa872cb2dd35603898.png",
+          "video_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8"
+        },
+      {
+          "title": "Movie Bangla",
+          "thumbnail": "https://i.postimg.cc/bwkd6kVP/Picsart_26_01_10_16_58_13_454.jpg",
+          "video_url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
+        },
+      {
+          "title": "Channel S",
+          "thumbnail": "https://i.postimg.cc/qM9zXjLm/Picsart_26_01_10_16_58_48_459.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11159"
+        },
+      {
+          "title": "Kolkata Movie",
+          "thumbnail": "https://i.postimg.cc/43Gyjyjd/1768022911679.png",
+          "video_url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
+        },
+      {
+          "title": "N TV HD",
+          "thumbnail": "https://i.postimg.cc/X7TpcQ8Q/Picsart_26_01_10_16_59_54_223.jpg",
+          "video_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
+        },
+      {
+          "title": "Padma Cable Vision",
+          "thumbnail": "https://i.postimg.cc/s2Bz47nH/file_0000000021cc7207a22fc0dad943d293.png",
+          "video_url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+        },
+      {
+          "title": "Channel 5",
+          "thumbnail": "https://i.postimg.cc/xdW2x87t/Picsart_26_01_09_14_21_19_948.jpg",
+          "video_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8"
+        },
+      {
+          "title": "Channel 52",
+          "thumbnail": "https://i.postimg.cc/cJVS9Cjb/Picsart_26_01_09_14_20_41_823.jpg",
+          "video_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8"
+        },
+      {
+          "title": "Deshe Bideshe",
+          "thumbnail": "https://i.postimg.cc/fb6N2yF6/Picsart_26_01_09_14_19_57_204.jpg",
+          "video_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8"
+        },
+      {
+          "title": "Deshi TV",
+          "thumbnail": "https://i.postimg.cc/wBSpfMZz/Picsart_26_01_09_14_18_55_949.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58162"
+        },
+      {
+          "title": "Channel A1",
+          "thumbnail": "https://i.postimg.cc/bJkjK8f0/FB_IMG_1767928213141.jpg",
+          "video_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8"
+        },
+      {
+          "title": "Biswa Bangla 24",
+          "thumbnail": "https://i.postimg.cc/mr0sXkJB/Picsart_26_01_09_14_18_28_656.jpg",
+          "video_url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8"
+        },
+      {
+          "title": "Dhoom Music Bangla",
+          "thumbnail": "https://i.postimg.cc/xCMSWYVK/Picsart_26_01_09_14_10_13_348.jpg",
+          "video_url": "https://mumt03.tangotv.in/DHOOM/index.m3u8"
+        },
+      {
+          "title": "Ananda Tv",
+          "thumbnail": "https://i.postimg.cc/B6HGdsfT/Picsart_26_01_09_14_08_41_608.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12093"
+        },
+      {
+          "title": "Deepto TV",
+          "thumbnail": "https://i.postimg.cc/nzBt6Zfm/FB_IMG_1767928980376.jpg",
+          "video_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+        },
+     {
+          "title": "BTV National HD",
+          "thumbnail": "https://i.postimg.cc/JnWdHSrq/20250529-071604.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12116"
+        },
+ {
+          "title": "Ekushey TV",
+          "thumbnail": "https://i.postimg.cc/vm1ytfPT/FB_IMG_1767973223795.jpg",
+          "video_url": "https://ekusheyserver.com/etvlivesn.m3u8"
+        },
+ {
+          "title": "ATN Bangla",
+          "thumbnail": "https://i.postimg.cc/FHBMzPkW/20250529-102502.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11237"
+               }
+            ]
+        },
+        {
+            "heading": "🎬 Zee Network",
+            "items": [
+                {
+          "title": "Zee TV",
+          "thumbnail": "https://i.postimg.cc/nhTLF27T/Picsart_26_01_07_09_09_35_581.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11694"
+        },
+{
+          "title": "Zee Cinema HD",
+          "thumbnail": "https://i.postimg.cc/cLTJxhYn/file_00000000830072069ffb4fdf56af71cc.png",
+          "video_url": "https://cdn.x7flix.com/UStream/StreamBlast.php?id=4706"
+        },
+{
+          "title": "Zee Anmol HD",
+          "thumbnail": "https://i.postimg.cc/RZvFxyWy/Picsart_26_01_07_12_17_40_267.jpg",
+          "video_url": "http://103.78.149.54:8000/play/a00j/index.m3u8"
+        },
+                      {
+          "title": "Zee Anmol Cinema 2",
+          "thumbnail": "https://i.postimg.cc/T2ZFJDz3/Picsart-26-01-10-17-52-18-718.jpg",
+          "video_url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
+        },
+{
+          "title": "Zee Bangla HD",
+          "thumbnail": "https://i.postimg.cc/4xw3fPtv/FB_IMG_1767724356693.jpg",
+          "video_url": "http://103.140.254.2:3500/live/625.m3u8"
+        },
+{
+          "title": "Zee Action HD",
+          "thumbnail": "https://i.postimg.cc/sgK2jmSZ/file_0000000098947209bd2867a9970e4759.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=656"
+        },
+{
+          "title": "Zee Bollywood HD",
+          "thumbnail": "https://i.postimg.cc/0yZNknmb/file_00000000a5cc72099e5de800080e0575_(1).png",
+          "video_url": "https://cdn.x7flix.com/UStream/StreamBlast.php?id=5228"
+        },
+{
+          "title": "Zee Classic HD",
+          "thumbnail": "https://i.postimg.cc/htMGDsx9/file_0000000078fc72098429888f1d755af4.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=896"
+        },
+{
+          "title": "Zee World HD",
+          "thumbnail": "https://i.postimg.cc/Sxmsb3Xc/file_000000003ed87206b88f5eebe67388fa.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=24253"
+        },
+{
+          "title": "Zee Cinemalu HD",
+          "thumbnail": "https://i.postimg.cc/8zwCp4WJ/file_00000000cae4720682adddd731d698b8.png",
+          "video_url": "https://cdn.x7flix.com/UStream/WTV.php?id=5209"
+        },
+{
+          "title": "Zee Cafe HD",
+          "thumbnail": "https://i.postimg.cc/g240zsRH/file_000000006cfc720684c0af30b0ea88d1.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=833"
+        },
+{
+          "title": "Zee Anmol Cinema HD",
+          "thumbnail": "https://i.postimg.cc/4N6dMs3X/file_0000000054a47206a7ee15d18d97343a.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=953"
+        },
+{
+          "title": "Zee Bangla Cinema HD",
+          "thumbnail": "https://i.postimg.cc/3x3RQVyD/Picsart_26_01_07_09_33_01_071.jpg",
+          "video_url": "https://ottking.top/toffe/live.php?id=zee_bangla_cinema&e=.m3u8"
+        },
+                  {
+          "title": "Zee South Flix",
+          "thumbnail": "https://i.postimg.cc/V62rC3k8/Picsart_26_01_12_16_21_25_650.jpg",
+          "video_url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
+        },
+      {
+          "title": "Zee Horror Nights",
+          "thumbnail": "https://i.postimg.cc/63F2vDpN/Picsart_26_01_12_16_20_42_639.jpg",
+          "video_url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8"
+        },
+      {
+          "title": "Zee Dil Se",
+          "thumbnail": "https://i.postimg.cc/JnSDk945/Picsart_26_01_12_16_22_28_189.jpg",
+          "video_url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8"
+        },
+   {
+          "title": "Zee Zest HD",
+          "thumbnail": "https://i.postimg.cc/Px0pwB5T/Picsart_26_01_12_16_23_17_313.jpg",
+          "video_url": "http://103.167.255.18:8085/play/a0lm/index.m3u8"
+        },
+      {
+          "title": "Zee Cine Classic",
+          "thumbnail": "https://i.postimg.cc/9XqqhFJk/Picsart_26_01_12_16_19_38_857.jpg",
+          "video_url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
+        },
+{
+          "title": "Zee Punjabi HD",
+          "thumbnail": "https://i.postimg.cc/4xXdRqYj/file_000000006b4c72068384e1edb1183fe8.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1101"
+        },
+{
+          "title": "Zee Keralam HD",
+          "thumbnail": "https://i.postimg.cc/W1s3cCDk/Picsart_26_01_07_09_30_50_371.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11948"
+        },
+{
+          "title": "Zee Marathi HD",
+          "thumbnail": "https://i.postimg.cc/6Q3pyZLM/FB_IMG_1767724196883.jpg",
+          "video_url": "http://familyrestream.com:2095/live/Majid2022/WhatsApp2962myrestream/72061.ts"
+        },
+{
+          "title": "Zee Sarthak HD",
+          "thumbnail": "https://i.postimg.cc/T3QPd0ms/FB_IMG_1767724053235.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=8782"
+        },
+{
+          "title": "Zee Talkies HD",
+          "thumbnail": "https://i.postimg.cc/Dw7Z3HW4/Picsart_26_01_07_09_32_01_244.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=648"
+        },
+{
+          "title": "Zee Thirai HD",
+          "thumbnail": "https://i.postimg.cc/dVJ1cphz/Picsart_26_01_07_09_33_49_122.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=796"
+        },
+{
+          "title": "Zee Telugu HD",
+          "thumbnail": "https://i.postimg.cc/P5KqXyZ3/FB_IMG_1767724325474.jpg",
+          "video_url": "https://cdn.x7flix.com/UStream/StreamBlast.php?id=4641"
+        },
+{
+          "title": "Zee Tamil HD",
+          "thumbnail": "https://i.postimg.cc/y8nN1j9b/FB_IMG_1767724160131.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=603"
+                }
+            ]
+        },
+        {
+            "heading": "Sony Network",
+            "items": [
+                      {
+          "title": "Sony Entertainment",
+          "thumbnail": "https://i.postimg.cc/WbshxVNZ/Picsart_26_01_07_14_34_36_922.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62357"
+        },
+      {
+          "title": "Sony TV",
+          "thumbnail": "https://i.postimg.cc/rFqK7TVD/Picsart_26_01_07_14_35_18_121.jpg",
+          "video_url": "http://217.20.112.199/sethd/index.m3u8"
+        },
+      {
+          "title": "Sony SAB",
+          "thumbnail": "https://i.postimg.cc/PrdP0HXs/Picsart_26_01_07_14_36_27_017.jpg",
+          "video_url": "http://217.20.112.199:8888/sabtvhd/index.m3u8"
+        },
+      {
+          "title": "Sony Wah ",
+          "thumbnail": "https://i.postimg.cc/7Yqfj4Hr/Picsart_26_01_07_14_37_59_720.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11731"
+        },
+      {
+          "title": "Sony Pal",
+          "thumbnail": "https://i.postimg.cc/bYxZ6rhc/Picsart_26_01_07_14_48_10_303.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=666"
+        },
+       {
+          "title": "Sony Kal",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157"
+        },
+       {
+          "title": "Sony Max",
+          "thumbnail": "https://i.postimg.cc/pXPp3vWf/FB_IMG_1767775896770.jpg",
+          "video_url": "https://padmaonline.duckdns.org/SonyMaxHD/tracks-v1a1/mono.m3u8"
+        },
+      {
+          "title": "Sony Max HD",
+          "thumbnail": "https://i.postimg.cc/ncnCNxFC/Sony_MAX.png",
+          "video_url": "https://padmaonline.duckdns.org/SonyMaxHD/tracks-v1a1/mono.m3u8"
+        },
+      {
+          "title": "Sony Max 2",
+          "thumbnail": "https://i.postimg.cc/kMQ2jGmP/Picsart_26_01_07_14_47_14_746.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1156"
+        },
+      {
+          "title": "Sony Aath",
+          "thumbnail": "https://i.postimg.cc/KcP19j2v/Picsart_26_01_07_14_38_18_739.jpg",
+          "video_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+        },
+      {
+          "title": "Sony Pix",
+          "thumbnail": "https://i.postimg.cc/59BXPyVM/Picsart_26_01_07_14_49_12_219.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=17029"
+        },
+      {
+          "title": "Sony Pix HD",
+          "thumbnail": "https://i.postimg.cc/tC9Y8bqV/214x0_icon.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1093"
+        },
+      {
+          "title": "Sony Yay!",
+          "thumbnail": "https://i.postimg.cc/CLwz90hg/Picsart_26_01_07_14_35_45_462.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2802"
+        },
+      {
+          "title": "Sony Marathi",
+          "thumbnail": "https://i.postimg.cc/sfYMnxry/Picsart_26_01_07_14_48_47_427.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1058"
+        },
+      {
+          "title": "Sony BBC Eath",
+          "thumbnail": "https://i.postimg.cc/zXqV4Nzw/FB_IMG_1767775697622.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11801"
+                }
+            ]
+        },
+        {
+            "heading": "🎬 Entertainment TV",
+            "items": [
+                       {
+          "title": "&TV HD",
+          "thumbnail": "https://i.postimg.cc/q7LPN5bW/file_00000000e780720990c82aa01272ead9.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11626"
+        },
+       {
+          "title": "&TV National HD",
+          "thumbnail": "https://i.postimg.cc/q7LPN5bW/file_00000000e780720990c82aa01272ead9.png",
+          "video_url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
+        },
+       {
+          "title": "&Pictures HD",
+          "thumbnail": "https://i.postimg.cc/BZpBC2ZT/Picsart_26_01_17_15_28_14_821.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11625"
+        },
+      {
+          "title": "&Xplor Hd",
+          "thumbnail": "https://i.postimg.cc/tCgtv77V/Picsart_26_01_17_15_29_21_475.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11619"
+        },
+       {
+          "title": "Dangal TV",
+          "thumbnail": "https://i.postimg.cc/RF8mVmVK/Picsart_26_01_12_16_46_05_184.jpg",
+          "video_url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+        },
+      {
+          "title": "Dangal 2",
+          "thumbnail": "https://i.postimg.cc/vBDMsTy3/Picsart_26_01_12_16_46_49_331.jpg",
+          "video_url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
+        },
+       {
+          "title": "B4U Movies",
+          "thumbnail": "https://i.postimg.cc/C1xWks9z/file_00000000c36c7206b56fb9d02139171f.png",
+          "video_url": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8"
+        },
+       {
+          "title": "UTSAV GOLD",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/2923.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62515"
+        },
+      {
+          "title": "UTSAV PLUS",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/60557.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60774"
+        },
+       {
+          "title": "Utsav Bharat",
+          "thumbnail": "https://cdn.skymedia.co.uk/wp-content/uploads/2021/01/Utsav-Bharat-250.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11779"
+        },
+      {
+          "title": "B4U Kadak",
+          "thumbnail": "https://i.postimg.cc/N043KzCh/file_00000000483071fab67672517e04f6a7.png",
+          "video_url": "https://cdn-2.pishow.tv/live/227/master.m3u8"
+        },
+       {
+          "title": "B4U Hitz",
+          "thumbnail": "https://i.postimg.cc/wjc95n0x/Picsart_26_01_12_16_47_40_499.jpg",
+          "video_url": "http://103.167.255.18:8085/play/a0he/index.m3u8"
+        },
+       {
+          "title": "Dhamaka Movies B4U",
+          "thumbnail": "https://i.postimg.cc/6TxNnhZx/Picsart_26_01_12_16_45_51_290.png",
+          "video_url": "https://cdn-1.pishow.tv/live/235/master.m3u8"
+        },
+       {
+          "title": "Bhojpuri Cinema",
+          "thumbnail": "https://i.postimg.cc/XqTmMSqH/Picsart_26_01_08_10_50_08_210.jpg",
+          "video_url": "http://familyrestream.com:2095/live/Majid2022/WhatsApp2962myrestream/425824.ts"
+        },
+       {
+          "title": "NH Bolly Flix",
+          "thumbnail": "https://i.postimg.cc/YS8Pw71T/Picsart_26_01_10_21_34_28_896.jpg",
+          "video_url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8"
+        },
+      {
+          "title": "Goldmines",
+          "thumbnail": "https://i.postimg.cc/vmXKdyWK/Picsart_26_01_10_21_52_08_203.jpg",
+          "video_url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+        },
+      {
+          "title": "Goldmines Movie",
+          "thumbnail": "https://i.postimg.cc/NMFB3prw/Picsart-26-01-10-22-12-04-009.jpg",
+          "video_url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+        },
+      {
+          "title": "Goldmines 2",
+          "thumbnail": "https://i.postimg.cc/CKJ2V0j6/file_000000007af0720980edf985af579184.png",
+          "video_url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
+        },
+      {
+          "title": "Bollywood HD",
+          "thumbnail": "https://i.postimg.cc/JhKFW8bT/Picsart_26_01_10_21_56_29_847.jpg",
+          "video_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8"
+        },
+      {
+          "title": "Bollywood Classics HD",
+          "thumbnail": "https://i.postimg.cc/XvxP0WwH/Picsart_26_01_10_21_55_55_459.jpg",
+          "video_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+        },
+      {
+          "title": "Monoranjan Movie",
+          "thumbnail": "https://i.postimg.cc/nLTWtxvS/Picsart_26_01_10_22_00_05_710.jpg",
+          "video_url": "https://cdn-2.pishow.tv/live/228/master.m3u8"
+        },
+                       {
+          "title": "Monoranjan TV",
+          "thumbnail": "https://i.postimg.cc/xjJJGTHj/Picsart_26_01_12_16_42_41_302.jpg",
+          "video_url": "https://cdn-1.pishow.tv/live/1013/master.m3u8"
+        },
+      {
+          "title": "Shemaroo Josh",
+          "thumbnail": "https://i.postimg.cc/9X70Rg53/Picsart_26_01_12_16_36_28_641.jpg",
+          "video_url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
+        },
+       {
+          "title": "Shemaroo Bollywood",
+          "thumbnail": "https://i.postimg.cc/6QzPNKdS/Picsart_26_01_10_21_50_31_035.jpg",
+          "video_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+        },
+      {
+          "title": "Shemaroo TV",
+          "thumbnail": "https://i.postimg.cc/gkbJvymZ/Picsart_26_01_12_16_35_39_434.jpg",
+          "video_url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+        },
+      {
+          "title": "Abzy Movies",
+          "thumbnail": "https://i.postimg.cc/WpkzFYRx/Picsart_26_01_12_16_37_13_992.jpg",
+          "video_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
+        },
+      {
+          "title": "Ishara TV",
+          "thumbnail": "https://i.postimg.cc/FHZ7Fftd/Picsart_26_01_12_16_40_36_899.jpg",
+          "video_url": "https://epiconvh.akamaized.net/live/ishaara/master.m3u8"
+        },
+      {
+          "title": "Maha Movie",
+          "thumbnail": "https://i.postimg.cc/L6jJ7CNQ/Picsart_26_01_12_16_41_07_877.jpg",
+          "video_url": "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+        },
+      {
+          "title": "Nazara TV",
+          "thumbnail": "https://i.postimg.cc/44DKWkb7/Picsart_26_01_12_16_41_54_489.jpg",
+          "video_url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
+        },
+      {
+          "title": "Punjabi Hits",
+          "thumbnail": "https://i.postimg.cc/NG998fX8/Picsart_26_01_12_16_43_48_058.jpg",
+          "video_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8"
+        },
+      {
+          "title": "ZB Cinema",
+          "thumbnail": "https://i.postimg.cc/MHq7HnZ8/Picsart_26_01_12_17_09_39_289.jpg",
+          "video_url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+        },
+      {
+          "title": "Captain",
+          "thumbnail": "https://i.postimg.cc/nMftB1mH/Picsart_26_01_12_16_44_48_391.jpg",
+          "video_url": "http://103.140.254.2:3500/live/3069.m3u8"
+        },
+      {
+          "title": "Tata Sky Bollywood Premiere",
+          "thumbnail": "https://i.postimg.cc/BvmskDr7/Picsart_26_01_12_16_47_24_037.jpg",
+          "video_url": "http://103.178.78.151:7505/play/a1vu/index.m3u8"
+        },
+      {
+          "title": "All Time Movies",
+          "thumbnail": "https://i.postimg.cc/BnGqKJ5m/Picsart_26_01_12_16_47_59_086.jpg",
+          "video_url": "http://103.178.78.151:7505/play/a0pb/index.m3u8"
+        },
+       {
+          "title": "Pocket Films",
+          "thumbnail": "https://i.postimg.cc/Dwd7QRB3/Picsart_26_01_12_16_50_04_864.jpg",
+          "video_url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8"
+        },
+       {
+          "title": "VENUS HD",
+          "thumbnail": "https://i.postimg.cc/BbdkW9bz/Picsart_26_01_08_10_51_40_910.jpg",
+          "video_url": "http://163.61.227.29:8000/play/a02y/index.m3u8"
+        },
+       {
+          "title": "SAB TV",
+          "thumbnail": "https://i.postimg.cc/WzQCRLzG/Picsart_26_01_08_10_20_21_882.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11087"
+        },
+       {
+          "title": "FILMAX HD",
+          "thumbnail": "https://i.postimg.cc/85zqMmxX/file_0000000051c87209a6e65585f17dade7.png",
+          "video_url": "http://163.61.227.29:8000/play/a02o/index.m3u8"
+        },
+       {
+          "title": "A1 TV",
+          "thumbnail": "https://i.postimg.cc/KzpCNg2j/file_00000000261c72099a02471723ce90a7.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=623488"
+        },
+       {
+          "title": "Pitaara Movies",
+          "thumbnail": "https://i.postimg.cc/pTc3Znt7/Picsart_26_01_08_11_16_49_054.jpg",
+          "video_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8"
+        },
+       {
+          "title": "SINDH TV",
+          "thumbnail": "https://i.postimg.cc/RVH27Fpg/file_000000001f9071fda7c841b5ef448e4c.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12052"
+        },
+       {
+          "title": "ATV HD",
+          "thumbnail": "https://i.postimg.cc/Prw0WxV4/Picsart_26_01_08_11_09_44_896.jpg",
+          "video_url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+        },
+       {
+          "title": "HUM TV HD",
+          "thumbnail": "https://i.postimg.cc/G3NZTYKv/Picsart_26_01_08_10_57_15_194.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11110"
+        },
+       {
+          "title": "A PLUS HD",
+          "thumbnail": "https://i.postimg.cc/MZ4hfR5j/IMG_20260108_105440.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11105"
+        },
+       {
+          "title": "GEO Entertainment",
+          "thumbnail": "https://i.postimg.cc/RC8jJfdJ/IMG_20260108_105415.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=12016"
+        },
+       {
+          "title": "Express Entertainment",
+          "thumbnail": "https://i.postimg.cc/44MrHtPm/IMG_20260108_105345.jpg",
+          "video_url": "http://163.61.227.29:8000/play/a05i/index.m3u8"
+        },
+       {
+          "title": "BOL Entertainment",
+          "thumbnail": "https://i.postimg.cc/Rhjyr5qz/Picsart_26_01_08_10_52_31_394.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11034"
+        },
+       {
+          "title": "AAJ Entertainment",
+          "thumbnail": "https://i.postimg.cc/Fz28t5zV/Picsart_26_01_08_10_49_18_694.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11070"
+        },
+       {
+          "title": "Green Entertainment",
+          "thumbnail": "MUN://i.postimg.cc/QCRwLGCk/Picsart_26_01_08_10_20_56_178.jpg",
+          "video_url": "http://163.61.227.29:8000/play/a02v/index.m3u8"
+        },
+       {
+          "title": "AAN TV HD",
+          "thumbnail": "https://i.postimg.cc/HnJRPsYt/Picsart_26_01_08_10_19_34_187.jpg",
+          "video_url": "http://163.61.227.29:8000/play/a02c/index.m3u8"
+        },
+       {
+          "title": "Travel XP HD",
+          "thumbnail": "https://i.postimg.cc/Zn92DKbW/Picsart_26_01_08_10_16_59_148.jpg",
+          "video_url": "https://cdn.x7flix.com/TStream/TStream.php?id=61035"
+        },
+       {
+          "title": "ARY Digital HD",
+          "thumbnail": "https://i.postimg.cc/5yHTkN42/Picsart_26_01_08_10_16_20_120.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63113"
+                }
+            ]
+        },
+        {
+            "heading": "🎬 Bhojpuri Entertainment",
+            "items": [
+       {
+          "title": "B4U Bhojpuri",
+          "thumbnail": "https://i.postimg.cc/FR2KC3SC/Picsart_26_01_12_16_38_27_598.jpg",
+          "video_url": "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8"
+        },
+      {
+          "title": "Bhojpuri Cinema",
+          "thumbnail": "https://i.postimg.cc/XqTmMSqH/Picsart_26_01_08_10_50_08_210.jpg",
+          "video_url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+        },
+      {
+          "title": "Filamchi Bhojpuri",
+          "thumbnail": "https://i.postimg.cc/Jhzts1mJ/Picsart_26_01_12_16_39_30_415.jpg",
+          "video_url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
+        },
+     {
+          "title": "Oscar Movies Bhojpuri",
+          "thumbnail": "https://i.postimg.cc/mZzz329q/Picsart_26_01_12_16_43_25_481.jpg",
+          "video_url": "https://cdn-4.pishow.tv/live/233/master.m3u8"
+        },
+      {
+          "title": "Abzy Dhakad",
+          "thumbnail": "https://i.postimg.cc/5yL2hyqC/Picsart_26_01_12_16_37_45_216.jpg",
+          "video_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
+              }
+            ]
+        },
+        {
+            "heading": "🎬 Music 🎶 Network",
+            "items": [
+                 {
+          "title": "Bengali Beats",
+          "thumbnail": "https://i.postimg.cc/CLqL0TPz/Picsart_26_01_17_16_02_51_116.jpg",
+          "video_url": "https://tplay.live/originals/bengali-beats/index.m3u8"
+        },
+      {
+          "title": "Joo Music",
+          "thumbnail": "https://i.postimg.cc/rybF7FJK/Picsart_26_01_17_18_00_43_586.jpg",
+          "video_url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+        },
+      {
+          "title": "MTV HD",
+          "thumbnail": "https://i.postimg.cc/YqSfDjj3/Picsart_26_01_17_15_31_19_196.jpg",
+          "video_url": "https://ottsolutions.club/6grrFer5X8/mbJKZetdFf/209340.m3u8"
+        },
+      {
+          "title": "E24",
+          "thumbnail": "https://i.postimg.cc/pX1Qwxnk/Picsart_26_01_17_15_32_11_694.jpg",
+          "video_url": "https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8"
+        },
+      {
+          "title": "9X Tashan",
+          "thumbnail": "https://i.postimg.cc/L476G6TS/Picsart_26_01_17_18_03_54_012.jpg",
+          "video_url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8"
+        },
+      {
+          "title": "9X Jalwa",
+          "thumbnail": "https://i.postimg.cc/nV5cNckf/Picsart_26_01_17_18_04_36_965.jpg",
+          "video_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8"
+        },
+      {
+          "title": "Vision Beat",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/8611.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=8695"
+       },
+      {
+          "title": "Hindi Hits HD",
+          "thumbnail": "https://i.postimg.cc/NFWsXpM1/file_0000000099f071fa968666b051ec2954.png",
+          "video_url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
+        },
+      {
+          "title": "YRF Music",
+          "thumbnail": "https://i.postimg.cc/bYMN4NR6/Picsart_26_01_17_18_06_36_268.jpg",
+          "video_url": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+        },
+      {
+          "title": "B4U Music",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",
+          "video_url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8"
+        },
+      {
+          "title": "Big Magic",
+          "thumbnail": "https://i.postimg.cc/6qDWZY3R/Picsart_26_01_17_18_07_37_932.jpg",
+          "video_url": "http://163.61.227.29:8000/play/a04f/index.m3u8"
+        },
+      {
+          "title": "9XM",
+          "thumbnail": "https://i.postimg.cc/fy6zdBLV/Picsart_26_01_17_18_17_40_644.jpg",
+          "video_url": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
+        },
+      {
+          "title": "Desi Channel",
+          "thumbnail": "https://i.postimg.cc/QCR870tH/file_000000005fa071fa84d084ef80943528.png",
+          "video_url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8"
+        },
+      {
+          "title": "PTC Chakde",
+          "thumbnail": "https://i.postimg.cc/tJLq62Tq/file_00000000f9a871fa9d4526df5e70211f.png",
+          "video_url": "https://cdn-1.pishow.tv/live/449/master.m3u8"
+        },
+      {
+          "title": "PTC Music",
+          "thumbnail": "https://i.postimg.cc/hvHDmpjQ/Picsart_26_01_17_18_14_04_834.jpg",
+          "video_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"
+        },
+      {
+          "title": "ShowBox",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/hi/0/00/ShowBox_TV_logo.png",
+          "video_url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
+        },
+      {
+          "title": "Zoom Global",
+          "thumbnail": "https://i.postimg.cc/L476G6T2/file_0000000010a871fab9847f54464f0b29.png",
+          "video_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8"
+        },
+      {
+          "title": "Zoom",
+          "thumbnail": "https://i.postimg.cc/L476G6T2/file_0000000010a871fab9847f54464f0b29.png",
+          "video_url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+        },
+      {
+          "title": "Sangeet Bhojpuri",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",
+          "video_url": "https://cdn-4.pishow.tv/live/1293/master.m3u8"
+        },
+      {
+          "title": "Zing",
+          "thumbnail": "https://i.postimg.cc/9XSFsFpW/file_00000000ecdc71faa11c838a2dc8f844.png",
+          "video_url": "http://103.167.255.18:8085/play/a0mx/index.m3u8"
+                }
+            ]
+        },
+        {
+            "heading": "🎬 Cartoon Network",
+            "items": [
+                      {
+          "title": "Power Kids",
+          "thumbnail": "https://i.postimg.cc/CLqL0TPj/Picsart_26_01_17_16_01_58_146.jpg",
+          "video_url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
+        },
+      {
+          "title": "ZB Cartoon",
+          "thumbnail": "https://i.postimg.cc/SNMN4FT2/Picsart_26_01_17_16_03_58_232.jpg",
+          "video_url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+        },
+      {
+          "title": "WOW Kids",
+          "thumbnail": "https://i.postimg.cc/VkwtqvbP/Picsart_26_01_20_11_16_21_920.jpg",
+          "video_url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+        },
+      {
+          "title": "Zoo Moo",
+          "thumbnail": "https://i.postimg.cc/jdPNnP2G/Picsart_26_01_20_11_26_41_915.jpg",
+          "video_url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+        },
+      {
+          "title": "PBS Kids",
+          "thumbnail": "https://i.postimg.cc/VLnM0n5y/Picsart_26_01_20_11_32_08_867.jpg",
+          "video_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+        },
+      {
+          "title": "Doraemon",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Doraemon_character.png",
+          "video_url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
+        },
+      {
+          "title": "POGO HD",
+          "thumbnail": "https://i.postimg.cc/L8SPt5gc/Picsart_26_01_20_11_17_26_538.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11666"
+        },
+      {
+          "title": "Nick Jr",
+          "thumbnail": "https://tatatv.cc/stalker_portal/misc/logos/320/49824.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=50040"
+        },
+      {
+          "title": "Discovery Kids",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Discovery_kids_logo.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=641"
+        },
+      {
+          "title": "Cartoon Network Hindi",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Logo_of_Cartoon_Network_Hindi.png",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11633"
+        },
+      {
+          "title": "Nick Hd",
+          "thumbnail": "https://i.postimg.cc/kgCSQGt3/Picsart_26_01_20_11_18_38_453.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11662"
+        },
+      {
+          "title": "Disnep Kids",
+          "thumbnail": "https://i.postimg.cc/T3xbV15s/Picsart_26_01_20_11_19_33_581.jpg",
+          "video_url": "http://ottsolutions.club/live/6grrFer5X8/mbJKZetdFf/78281.ts"
+        },
+      {
+          "title": "Hungama TV",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Hungama_TV.svg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11646"
+        },
+      {
+          "title": "Gubbare",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Gubbare-TV_channel.jpg",
+          "video_url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+        },
+      {
+          "title": "Monoranjan Grand",
+          "thumbnail": "https://en.wikipedia.org/wiki/File:Manoranjan-Grand.jpeg",
+          "video_url": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
+        },
+      {
+          "title": "Sonic",
+          "thumbnail": "https://i.postimg.cc/TYgm5ghM/Picsart_26_01_20_11_20_24_979.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11667"
+        },
+      {
+          "title": "Disney Channel",
+          "thumbnail": "https://i.postimg.cc/02DmKDr1/Picsart_26_01_20_11_22_43_338.jpg",
+          "video_url": "https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1846"
+                }
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "heading": "Trending Movies",
+            "items": [
+                {
+                    "title": "Pushpa 2",
+                    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sony_MAX_2_Logo_%282022%29.png/500px-Sony_MAX_2_Logo_%282022%29.png",
+                    "video_url": "https://pixeldrain.dev/api/file/72cSoAf3"
+                }
+            ]
+        }
+    ]
+}
