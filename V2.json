@@ -1,0 +1,6 @@
+{
+  "show_update": true,
+  "update_title": "New Update Available!",
+  "update_msg": "Please update to the latest version for new features.",
+  "update_url": "https://yourwebsite.com/app.apk"
+}
