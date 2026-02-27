@@ -1,0 +1,5 @@
+{
+  "isExpired": true,
+  "message": "Maintenance Mode Active",
+  "newConfig": "{ 'status': 'updated' }"
+}
